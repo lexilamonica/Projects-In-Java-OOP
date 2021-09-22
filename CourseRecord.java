@@ -1,8 +1,6 @@
 package Exercise5;
 import java.util.ArrayList;
-/* Lexi LaMonica
- * Spring 2021
- * Assignment 2*/
+/* Lexi LaMonica */
 class CourseRecord{
     public Student student;
     private ArrayList<Assignment> assignments = new ArrayList<Assignment>();
