@@ -1,7 +1,8 @@
 package Q4;
-/* Lexi LaMonica
- * Spring 2021
- * Midterm*/
+/*  
+*Author: Lexi LaMonica
+*All rights reserved
+*/
 /** Create a City class that abstracts the concept of city (not an abstract class).
 * Then declare a Nation class declaring a capital instance variable of type City.
 
