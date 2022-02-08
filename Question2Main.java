@@ -1,7 +1,8 @@
 package Q4;
-/* Lexi LaMonica
- * Spring 2021
- * Midterm*/
+/*  
+*Author: Lexi LaMonica
+*All rights reserved
+*/
 /**Finally, create an Question2Mainclass that creates a nation with a capital, and
 * prints a sentence that verifies the actual association
 * between the nation and the capital. Create constructors for these classes.
